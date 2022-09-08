@@ -1,0 +1,51 @@
+.heigt {
+    height: 600px;
+    opacity: 0.9;
+}
+
+.body-u {
+    background-image: url("https://wallpaperbat.com/img/54779-abstract-smoke-wallpaper-top-free-abstract-smoke-background.jpg");
+    background-attachment: fixed;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+.login-hr {
+    height: 350px;
+    width: 60%;
+}
+
+.hei-ght {
+    height: 140px;
+}
+
+.hei-ht {
+    height: 185px;
+}
+
+.image {
+    opacity: 1;
+    display: block;
+    transition: .5s ease;
+    backface-visibility: hidden;
+}
+
+.container {
+    position: relative;
+}
+
+.container:hover .image {
+    opacity: 0.3;
+    color: blue;
+}
+
+.signUp {
+    background-image: url("https://png.pngtree.com/thumb_back/fh260/background/20210316/pngtree-abstract-black-and-yellow-grunge-background-image_588223.jpg");
+    background-attachment: fixed;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+.fight {
+    height: 400px;
+}
